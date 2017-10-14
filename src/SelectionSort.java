@@ -1,5 +1,3 @@
-package codingchallenge;
-
 import java.util.Scanner;
 
 public class SelectionSort {
